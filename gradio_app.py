@@ -33,4 +33,4 @@ interface = gr.Interface(
     description="Enter the patient's medical data to predict heart disease."
 )
 
-interface.launch()
+interface.launch(share = True)
