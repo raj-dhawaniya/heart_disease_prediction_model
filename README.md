@@ -55,6 +55,15 @@ I used a **Logistic Regression** model — simple, fast, and interpretable — w
 
 ---
 
+## 📈 Accuracy vs Training Size
+
+![Accuracy Plot](./accuracy_plot.png)
+
+## 📉 Loss (Log Loss) vs Training Size
+
+![Loss Plot](./loss_curve.png)
+
+
 ## 🚀 Getting Started
 
 To try out the project on your own system, follow these steps:
