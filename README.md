@@ -71,4 +71,3 @@ To try out the project on your own system, follow these steps:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/raj-dhawaniya/heart_disease_prediction_model.git
-cd heart-disease-prediction
